@@ -1,2 +1,2 @@
-# baskcation-review-dashboard
-CS팀 리뷰 자동 분석 대시보드
+# Baskcation Review Dashboard
+CS팀 리뷰 분석 자동화 프로젝트
